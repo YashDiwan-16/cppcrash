@@ -36,10 +36,10 @@ int main()
 }
 
 //100 to 1
-for(int j=100;j>=1;j--)
-{
-    cout<<j<<" ";
-}
+// for(int j=100;j>=1;j--)
+// {
+//     cout<<j<<" ";
+// }
 cout<<"\n";
 
     return 0;
